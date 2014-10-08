@@ -1,4 +1,4 @@
-from dbscode_minecraft import *
+from bluefruit_minecraft import *
 
 bulldoze()
 
