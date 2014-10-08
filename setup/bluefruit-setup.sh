@@ -5,9 +5,9 @@ sudo apt-get -y install geany
 cp geany.desktop ~/Desktop/geany.desktop
 cp minecraft.desktop ~/Desktop/minecraft.desktop
 cd ~
-wget https://github.com/nebogeo/dbscode/archive/master.zip
-unzip master.zip
-cd ./dbscode-master
+wget https://github.com/byran/dbscode/archive/Bluefruit.zip
+unzip Bluefruit.zip
+cd ./dbscode-Bluefruit
 ./install.sh
 cd ~
 wget https://s3.amazonaws.com/assets.minecraft.net/pi/minecraft-pi-0.1.1.tar.gz
