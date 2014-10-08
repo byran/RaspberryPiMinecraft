@@ -1,4 +1,4 @@
-![](https://github.com/nebogeo/dbscode/raw/master/doc/images/dbscode.png)
+![](images/dbscode.png)
 
 # Minecraft Programming Cheat Sheet
 
@@ -54,7 +54,7 @@ example: `box(CLAY, point(0,0,0), point(10,10,10))`
 
 Will create a 10x10x10 block of clay in the middle of the world (0,0,0)
 
-![A box image](https://github.com/nebogeo/dbscode/raw/master/doc/images/box.png "How a box works")
+![A box image](images/box.png "How a box works")
 
 ###sphere(blocktype, centre_point, radius)
 example: `sphere(MELON, point(0,10,0), 10)`
@@ -62,28 +62,28 @@ example: `sphere(MELON, point(0,10,0), 10)`
 Will create a sphere of melon slightly above the centre of the world
 with a radius of 10 blocks.
 
-![A sphere image](https://github.com/nebogeo/dbscode/raw/master/doc/images/sphere.png "How a sphere works")
+![A sphere image](images/sphere.png "How a sphere works")
 
 ###cylinder(blocktype, position_point, radius, height):
 example: `cylinder(STONE_BRICK,point(0,0,0),6,20)`
 
 Builds a cylinder of stone brick in the centre of the world radius 6, height 20.
 
-![A cylinder image](https://github.com/nebogeo/dbscode/raw/master/doc/images/cylinder.png "How a cylinder works")
+![A cylinder image](images/cylinder.png "How a cylinder works")
 
 ###cone(blocktype, position_point, radius, height):
 example: `cone(WOOD,point(0,0,0),6,20)`
 
 Same as cylinder, but with a sharp point at the top.
 
-![A cone image](https://github.com/nebogeo/dbscode/raw/master/doc/images/cone.png "How a cone works")
+![A cone image](images/cone.png "How a cone works")
 
 ###toblerone(blocktype, position_point, size_point)
 example: `toblerone(GLASS,point(0,0,0),point(10,10,3))`
 
 Makes a 'toblerone', referred to by lesser mortals as a prism. Useful for roof building.
 
-![A toblerone image](https://github.com/nebogeo/dbscode/raw/master/doc/images/toblerone.png "How a toblerone works")
+![A toblerone image](images/toblerone.png "How a toblerone works")
 
 # player info
 
@@ -145,75 +145,75 @@ Will make a row of gold cubes.
 
 All the block type listed, there may well be more... be careful with lava.
 
-AIR
-STONE
-GRASS
-DIRT
-COBBLESTONE
-WOOD_PLANKS
-SAPLING
-BEDROCK
-WATER_FLOWING
-WATER
-WATER_STATIONARY
-LAVA_FLOWING
-LAVA
-LAVA_STATIONARY
-SAND
-GRAVEL
-GOLD_ORE
-IRON_ORE
-COAL_ORE
-WOOD
-LEAVES
-GLASS
-LAPIS_LAZULI_ORE
-LAPIS_LAZULI_BLOCK
-SANDSTONE
-BED
-COBWEB
-GRASS_TALL
-WOOL
-FLOWER_YELLOW
-FLOWER_CYAN
-MUSHROOM_BROWN
-MUSHROOM_RED
-GOLD_BLOCK
-IRON_BLOCK
-STONE_SLAB_DOUBLE
-STONE_SLAB
-BRICK_BLOCK
-TNT
-BOOKSHELF
-MOSS_STONE
-OBSIDIAN
-TORCH
-FIRE
-STAIRS_WOOD
-CHEST
-DIAMOND_ORE
-DIAMOND_BLOCK
-CRAFTING_TABLE
-FARMLAND
-FURNACE_INACTIVE
-FURNACE_ACTIVE
-DOOR_WOOD
-LADDER
-STAIRS_COBBLESTONE
-DOOR_IRON
-REDSTONE_ORE
-SNOW
-ICE
-SNOW_BLOCK
-CACTUS
-CLAY
-SUGAR_CANE
-FENCE
-GLOWSTONE_BLOCK
-BEDROCK_INVISIBLE
-STONE_BRICK
-GLASS_PANE
-MELON
-FENCE_GATE
-GLOWING_OBSIDIAN
+AIR,
+STONE,
+GRASS,
+DIRT,
+COBBLESTONE,
+WOOD_PLANKS,
+SAPLING,
+BEDROCK,
+WATER_FLOWING,
+WATER,
+WATER_STATIONARY,
+LAVA_FLOWING,
+LAVA,
+LAVA_STATIONARY,
+SAND,
+GRAVEL,
+GOLD_ORE,
+IRON_ORE,
+COAL_ORE,
+WOOD,
+LEAVES,
+GLASS,
+LAPIS_LAZULI_ORE,
+LAPIS_LAZULI_BLOCK,
+SANDSTONE,
+BED,
+COBWEB,
+GRASS_TALL,
+WOOL,
+FLOWER_YELLOW,
+FLOWER_CYAN,
+MUSHROOM_BROWN,
+MUSHROOM_RED,
+GOLD_BLOCK,
+IRON_BLOCK,
+STONE_SLAB_DOUBLE,
+STONE_SLAB,
+BRICK_BLOCK,
+TNT,
+BOOKSHELF,
+MOSS_STONE,
+OBSIDIAN,
+TORCH,
+FIRE,
+STAIRS_WOOD,
+CHEST,
+DIAMOND_ORE,
+DIAMOND_BLOCK,
+CRAFTING_TABLE,
+FARMLAND,
+FURNACE_INACTIVE,
+FURNACE_ACTIVE,
+DOOR_WOOD,
+LADDER,
+STAIRS_COBBLESTONE,
+DOOR_IRON,
+REDSTONE_ORE,
+SNOW,
+ICE,
+SNOW_BLOCK,
+CACTUS,
+CLAY,
+SUGAR_CANE,
+FENCE,
+GLOWSTONE_BLOCK,
+BEDROCK_INVISIBLE,
+STONE_BRICK,
+GLASS_PANE,
+MELON,
+FENCE_GATE,
+GLOWING_OBSIDIAN,
 NETHER_REACTOR_CORE

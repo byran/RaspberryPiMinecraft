@@ -1,8 +1,8 @@
-![](https://github.com/nebogeo/dbscode/raw/master/doc/images/dbscode.png)
+![](../images/dbscode.png)
 
 # A Minecraft spider generator
 
-![Spider](https://github.com/nebogeo/dbscode/raw/master/doc/images/spider.jpg "A spider")
+![Spider](../images/spider.jpg "A spider")
 
 Before you start:
 

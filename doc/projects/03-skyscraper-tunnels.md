@@ -1,9 +1,9 @@
-![](https://github.com/nebogeo/dbscode/raw/master/doc/images/dbscode.png)
+![](../images/dbscode.png)
 
 # Huge skyscrapers and dungeons
 
-![Skyscrapers](https://github.com/nebogeo/dbscode/raw/master/doc/images/skyscraper.jpg "Skyscrapers")
-![Tunnels](https://github.com/nebogeo/dbscode/raw/master/doc/images/tunnels.jpg "Tunnels")
+![Skyscrapers](../images/skyscraper.jpg "Skyscrapers")
+![Tunnels](../images/tunnels.jpg "Tunnels")
 
 Before you start:
 
