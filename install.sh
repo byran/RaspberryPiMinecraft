@@ -1,1 +1,1 @@
-sudo cp python/dbscode_minecraft.py /usr/lib/python2.7/
+sudo cp python/bluefruit_minecraft.py /usr/lib/python2.7/
