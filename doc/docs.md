@@ -1,18 +1,18 @@
-![](images/dbscode.png)
+![](images/bluefruit.png)
 
 # Minecraft Programming Cheat Sheet
 
-This is for the dBsCode taster sessions, learning programming via
+This is for the Bluefruit taster sessions, learning programming via
 procedural architecture in Minecraft using the Raspberry Pi. This is a
 quick cheat sheet of all the functions and everything needed for the
 workshop.
 
 # basics
 
-###from dbscode_minecraft import *
+###from bluefruit_minecraft import *
 
 You need to put this at the top of your script to tell Python where to
-find all the dBsCode and Minecraft commands we are using.
+find all the Bluefruit and Minecraft commands we are using.
 
 ###debug()
 example: `debug("hello")`

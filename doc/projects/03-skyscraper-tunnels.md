@@ -1,4 +1,4 @@
-![](../images/dbscode.png)
+![](../images/bluefruit.png)
 
 # Huge skyscrapers and dungeons
 
@@ -15,10 +15,10 @@ Before you start:
 * In Geany, from the file menu select "new", and then save as
   `skyscraper.py` in the "pi" directory.
 
-* We need to import the dBsCode commands we'll be using and clear an
+* We need to import the Bluefruit commands we'll be using and clear an
 area in the Minecraft world for working in. Create this program:
 
-        from dbscode_minecraft import *
+        from bluefruit_minecraft import *
         bulldoze()
 
 * **Test** Press F5 to run the program (this will also save your program

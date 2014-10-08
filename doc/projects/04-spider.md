@@ -1,4 +1,4 @@
-![](../images/dbscode.png)
+![](../images/bluefruit.png)
 
 # A Minecraft spider generator
 
@@ -14,10 +14,10 @@ Before you start:
 * In Geany, from the file menu select "new", and then save as `spider.py` in the "pi"
   directory.
 
-* We need to import the dBsCode commands we'll be using and clear an
+* We need to import the Bluefruit commands we'll be using and clear an
 area in the Minecraft world for working in. Create this program:
 
-        from dbscode_minecraft import *
+        from bluefruit_minecraft import *
         bulldoze()
 
 * **Test** Press F5 to run the program (this will also save your
@@ -255,7 +255,7 @@ the top of the file.  Try to do this with your code.
 Here is our code for the spider, try and use it to check and change the code you 
 wrote rather than copy & pasting it:
 
-		from dbscode_minecraft import *
+		from bluefruit_minecraft import *
 
 		bulldoze()
 		
@@ -306,7 +306,7 @@ tell it the colour you want?
 Try and do some or all of this yourself, if you've had enough, here is the whole 
 spider code that should do all the things we want:
 
-		from dbscode_minecraft import *
+		from bluefruit_minecraft import *
 
 		bulldoze()
 
