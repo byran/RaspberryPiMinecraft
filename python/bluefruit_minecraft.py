@@ -19,7 +19,7 @@
 import sys
 
 # locate api so we can run frm anywhere
-sys.path.append("/home/pi/mcpi/api/python/mcpi")
+sys.path.append("/usr/lib/python2.7/dist-packages/mcpi")
 
 import minecraft
 from block import *
