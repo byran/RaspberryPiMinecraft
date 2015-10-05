@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=/usr/bin/minecraft-pi
+Icon=/usr/share/pixmaps/minecraft-pi.png
+Terminal=false
+Name=Minecraft Pi

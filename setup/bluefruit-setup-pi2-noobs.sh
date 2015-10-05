@@ -2,7 +2,7 @@
 
 sudo apt-get -y install geany
 cp geany.desktop ~/Desktop/geany.desktop
-cp minecraft.desktop ~/Desktop/minecraft.desktop
+cp minecraft-pi2-noobs.desktop ~/Desktop/minecraft.desktop
 
 cd ..
 ./install.sh
